@@ -5,7 +5,7 @@ Welcome to my data science portfolio! This repository contains a collection of p
 ### Project 1: Research Project: Ensemble Learning for Crop Disease Detection
 ### Project 2: Biometric facial recognition system
 ### Project 3: Chest-Xray-Pneumonia-Prediction
-### Project 2: Title
+### Project 4: Image Denoising with Autoencoders
 ## Project 5: Watermarking and Steganography
 ### Contact Information
 
